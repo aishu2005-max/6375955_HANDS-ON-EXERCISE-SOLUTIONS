@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\bin\Debug\net8.0\FinancialForecastingApp.exe
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\bin\Debug\net8.0\FinancialForecastingApp.deps.json
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\bin\Debug\net8.0\FinancialForecastingApp.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\bin\Debug\net8.0\FinancialForecastingApp.dll
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\bin\Debug\net8.0\FinancialForecastingApp.pdb
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\obj\Debug\net8.0\FinancialForecastingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\obj\Debug\net8.0\FinancialForecastingApp.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\obj\Debug\net8.0\FinancialForecastingApp.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\obj\Debug\net8.0\FinancialForecastingApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\obj\Debug\net8.0\FinancialForecastingApp.dll
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\obj\Debug\net8.0\refint\FinancialForecastingApp.dll
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\obj\Debug\net8.0\FinancialForecastingApp.pdb
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\obj\Debug\net8.0\FinancialForecastingApp.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-Data Structures and Algorithms-HandsOn.docx\FinancialForecastingApp\obj\Debug\net8.0\ref\FinancialForecastingApp.dll
