@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\bin\Debug\net8.0\FactoryPatternDemo.exe
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\bin\Debug\net8.0\FactoryPatternDemo.deps.json
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\bin\Debug\net8.0\FactoryPatternDemo.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\bin\Debug\net8.0\FactoryPatternDemo.dll
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\bin\Debug\net8.0\FactoryPatternDemo.pdb
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.dll
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\obj\Debug\net8.0\refint\FactoryPatternDemo.dll
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.pdb
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\obj\Debug\net8.0\FactoryPatternDemo.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\04-Design principles & patterns-Factory Method Pattern\FactoryPatternDemo\obj\Debug\net8.0\ref\FactoryPatternDemo.dll

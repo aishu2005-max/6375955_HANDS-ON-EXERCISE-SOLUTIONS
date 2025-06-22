@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\bin\Debug\net8.0\singletonpattern.exe
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\bin\Debug\net8.0\singletonpattern.deps.json
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\bin\Debug\net8.0\singletonpattern.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\bin\Debug\net8.0\singletonpattern.dll
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\bin\Debug\net8.0\singletonpattern.pdb
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net8.0\singletonpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net8.0\singletonpattern.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net8.0\singletonpattern.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net8.0\singletonpattern.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net8.0\singletonpattern.dll
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net8.0\refint\singletonpattern.dll
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net8.0\singletonpattern.pdb
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net8.0\singletonpattern.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net8.0\ref\singletonpattern.dll

@@ -1,0 +1,4 @@
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net6.0\SingletonUploadService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net6.0\SingletonUploadService.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net6.0\SingletonUploadService.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\WEEK-1 6375955-DesignPrinciplesAndPatterns-Hands-on.Docx\03-Design principles & Patterns-Singleton pattern\obj\Debug\net6.0\SingletonUploadService.csproj.CoreCompileInputs.cache
