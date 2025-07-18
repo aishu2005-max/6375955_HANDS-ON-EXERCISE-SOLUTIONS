@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{EDC27164-5EAE-4BE1-A5A3-C9231A7DB69F}") = "KafkaChatApp", "KafkaChatApp\KafkaChatApp.csproj", "{0C9478C9-85FD-41CE-8FEB-679B96089AFA}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {0C9478C9-85FD-41CE-8FEB-679B96089AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {0C9478C9-85FD-41CE-8FEB-679B96089AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {0C9478C9-85FD-41CE-8FEB-679B96089AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {0C9478C9-85FD-41CE-8FEB-679B96089AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal
